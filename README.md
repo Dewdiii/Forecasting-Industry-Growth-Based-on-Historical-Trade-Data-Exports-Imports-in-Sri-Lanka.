@@ -1,1 +1,2 @@
-# -Forecasting-Industry-Growth-Based-on-Historical-Trade-Data-Exports-Imports-in-Sri-Lanka.
+# Forecasting-Industry-Growth-Based-on-Historical-Trade-Data-Exports-Imports-in-Sri-Lanka.
+In this module, it predicts how industries in Sri Lanka will grow using trade, import, and export data. By studying past data and economic trends, I created a model to make accurate forecasts. I used RNN (Recurrent Neural Networks) to find patterns in time-series data and understand how trade factors affect industry growth.
